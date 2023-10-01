@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+
+h2{
+    text-align: center;
+}
+
+.boton{
+    transform: scale(2);
+}
+
+.centroBoton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
